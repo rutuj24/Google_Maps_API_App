@@ -1,4 +1,4 @@
-# Google_Maps_API_App
+# Travel_Manager_App
 
 Andorid App that shows the user his/her/their current location<br>
 Uses google maps api<br>
