@@ -5,4 +5,7 @@ Uses google maps api<br>
 Also contains budget submodule to manage exoenses<br><br>
 
 TO_DO<br>
-Show the nearby spots(only api integration left)
+Show the nearby spots(only api integration left)<br><br>
+
+HOW TO INSTALL<br>
+https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/
